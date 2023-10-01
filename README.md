@@ -1,7 +1,7 @@
 # cs32
 Intro to Data Structures and Algorithms Computer Science Course at UCLA. 
 
-Taken during Spring 2023 with Smallberg: http://web.cs.ucla.edu/classes/spring23/cs32/
+Taken during Spring 2023 with Professor Smallberg: http://web.cs.ucla.edu/classes/spring23/cs32/
 
 | Homework | Score |
 | :-: | :-: |
